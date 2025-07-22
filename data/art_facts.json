@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Starry Night",
+    "artist": "Vincent van Gogh",
+    "fact": "Painted in 1889, it depicts Van Gogh’s view from the asylum."
+  },
+  {
+    "title": "The Persistence of Memory",
+    "artist": "Salvador Dalí",
+    "fact": "Famous for its melting clocks and surreal landscape."
+  },
+
+  {
+    "title": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "fact": "Known for her enigmatic smile, painted in the early 1500s."
+  },
+  {
+    "title": "The Scream",
+    "artist": "Edvard Munch",
+    "fact": "Symbolizes existential angst, created in 1893."
+  },
+  {
+    "title": "The Kiss",
+    "artist": "Gustav Klimt",
+    "fact": "A masterpiece of the Art Nouveau movement, painted in 1907-1908."
+  }
+]
+  

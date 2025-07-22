@@ -1,0 +1,55 @@
+[
+  "Jupiter's Great Red Spot is twice the size of Earth.",
+  "String theory says particles vibrate like tiny strings.",
+  "Your brain has 86 billion neurons firing signals every second.",
+  "Time slows down at higher altitude — thanks to relativity.",
+  "The universe is expanding, and galaxies are moving away from us.",
+  "A day on Venus is longer than a year on Venus due to its slow rotation.",
+  "The observable universe is about 93 billion light-years in diameter.",
+  "Water can exist in three states: solid, liquid, and gas, depending on temperature and pressure.",
+  "The human body contains about 60% water, essential for all life processes.",
+  "DNA is made up of four nucleotides: adenine, thymine, cytosine, and guanine.",
+  "The speed of sound is about 343 meters per second in air at room temperature.",
+  "A black hole's gravity is so strong that nothing, not even light, can escape it.",
+  "The Earth’s core is as hot as the surface of the sun, around 5,500 degrees Celsius.",
+  "Photosynthesis converts sunlight into chemical energy in plants, producing oxygen as a byproduct.",
+  "The human genome contains about 3 billion base pairs of DNA.",
+  "The Milky Way galaxy is home to over 100 billion stars and is about 100,000 light-years in diameter.",
+  "Atoms are made up of protons, neutrons, and electrons, with protons and neutrons forming the nucleus.",
+  "The periodic table has 118 confirmed elements, each with unique properties.",
+  "A light-year is the distance light travels in one year, about 9.46 trillion kilometers.",
+  "The Earth's atmosphere is composed of 78% nitrogen, 21% oxygen, and trace amounts of other gases.",
+  "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+  "Quantum mechanics describes the behavior of particles at the smallest scales, where classical physics breaks down.",
+  "The theory of evolution explains how species adapt and change over time through natural selection.",         
+  {
+    "fact": "Light behaves both as a particle and a wave — this is known as wave-particle duality."
+  },
+  {
+    "fact": "Time moves slower near a massive object due to gravitational time dilation, as predicted by Einstein’s theory of general relativity."
+  },
+  {
+    "fact": "Absolute zero, or 0 Kelvin, is the lowest possible temperature, where particles have minimum thermal motion."
+  },
+  {
+    "fact": "Quantum entanglement means particles can be connected across space — changing one instantly affects the other."
+  },
+  {
+    "fact": "A neutron star is so dense that a sugar-cube-sized piece would weigh about a billion tons on Earth."
+  },
+  {
+    "fact": "Electricity and magnetism are different aspects of the same force: electromagnetism."
+  },
+  {
+    "fact": "Photons, the particles of light, have no mass but carry energy and momentum."
+  },
+  {
+    "fact": "Inertia is an object's resistance to a change in motion — it's why you lurch forward in a stopping car."
+  },
+  {
+    "fact": "The speed of light in a vacuum is approximately 299,792 kilometers per second — the universal speed limit."
+  },
+  {
+    "fact": "Black holes warp spacetime so extremely that not even light can escape once it crosses the event horizon."
+  }
+]

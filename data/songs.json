@@ -1,0 +1,12 @@
+[
+  {"weather":"rain", "song":"Umbrella - Rihanna"},
+  {"weather":"sunny","song":"Here Comes the Sun - The Beatles"},
+  {"weather":"cloudy","song":"Cloudy Day - Tones and I"},
+  {"weather":"snow","song":"Let It Snow - Frank Sinatra"},
+  {"weather":"storm","song":"Thunder - Imagine Dragons"},
+  {"weather":"sunny","song":"Don't Worry Be Happy - Bobby McFerrin"},
+  {"weather":"cloudy","song":"Fix You - Coldplay"},
+  {"weather":"rain","song":"Purple Rain - Prince"},
+  {"weather":"sunny","song":"Isn't She Lovely - Stevie Wonder"},
+  {"weather":"sunny","song":"Walking on Sunshine - Katrina & The Waves"}
+]
